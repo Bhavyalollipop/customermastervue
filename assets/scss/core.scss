@@ -1,0 +1,10 @@
+/* Import Font Awesome Icons Set */
+$fa-font-path: '~font-awesome/fonts/';
+@import 'font-awesome/scss/font-awesome.scss';
+
+.cursor-pointer{
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+}
